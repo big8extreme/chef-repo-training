@@ -5,8 +5,3 @@
 ###
 .chef/*.pem
 .chef/encrypted_data_bag_secret
-*.log
-
-# test kitchen
-.kitchen/
-.kitchen.local.yml
